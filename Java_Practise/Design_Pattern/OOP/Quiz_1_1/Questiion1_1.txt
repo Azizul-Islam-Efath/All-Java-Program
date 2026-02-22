@@ -1,0 +1,8 @@
+1. Create a class Student. In the user input, if id is empty or null, throw an
+IllegalArgumentException. 6
+
+2. Create a class Rectangle with length and width as attributes. Include a method to
+calculate and return the area. 6
+
+
+3. Explain Inheritance with an Example related to OOP.
