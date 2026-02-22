@@ -26,7 +26,7 @@ public class Student {
 class StudentInfo {
     public static void main(String[] args) {
         Student s1=new Student("Azizul Islam", "241-35-364", 3.66);
-        System.out.println("");
+        System.out.println("Name: "+s1.getName()+"\nID: "+s1.getId()+"\nCGPA: "+s1.getcgpa());
     }
     
 }
