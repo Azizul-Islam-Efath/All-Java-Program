@@ -1,0 +1,8 @@
+1. Create a class Student with private fields (name, id, cgpa). Write a separate class
+StudentTest to verify that fields cannot be accessed directly. 6
+
+2. Create class ExceptionHandling with a calculate method inside it. The method will
+add two integers and return the result. For user input, handle the InvalidInputException in
+your code. 6
+
+3. Explain Abstraction with an Example related to OOP.
