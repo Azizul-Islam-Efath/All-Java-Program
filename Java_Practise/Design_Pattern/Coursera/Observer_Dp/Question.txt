@@ -1,0 +1,1 @@
+Create a notification system for new movie releases using the Observer pattern. Implement the necessary interfaces and classes to facilitate this. Use them to notify all subscribers about new movie releases.
